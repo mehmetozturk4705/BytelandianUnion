@@ -1,3 +1,5 @@
+package com.sony.bytelandassessment;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -58,7 +60,7 @@ public class Main {
 
         //Checking if experiment number is less than 1000
         if(numOfExperiment>=EXPERIMENT_LIMIT){
-            System.err.println(String.format("BytelandUnionExperiment number should be less than %s!", EXPERIMENT_LIMIT) );
+            System.err.println(String.format("com.sony.bytelandassessment.BytelandUnionExperiment number should be less than %s!", EXPERIMENT_LIMIT) );
             System.exit(1);
         }
         //Getting experiment values

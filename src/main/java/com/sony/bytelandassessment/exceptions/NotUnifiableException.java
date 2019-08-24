@@ -1,4 +1,4 @@
-package exceptions;
+package com.sony.bytelandassessment.exceptions;
 
 /**
  * If thrower UnionGraph object has multiple components disconnected each other, you will get this exception.

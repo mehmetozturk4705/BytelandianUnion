@@ -1,4 +1,4 @@
-package exceptions;
+package com.sony.bytelandassessment.exceptions;
 
 /**
  * Exception which represents logical compliance error.

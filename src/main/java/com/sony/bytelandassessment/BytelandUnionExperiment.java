@@ -1,7 +1,9 @@
-import datastructure.UnionGraph;
-import exceptions.LogicViolationException;
-import exceptions.NotUnifiableException;
-import exceptions.WrongInputException;
+package com.sony.bytelandassessment;
+
+import com.sony.bytelandassessment.datastructure.UnionGraph;
+import com.sony.bytelandassessment.exceptions.LogicViolationException;
+import com.sony.bytelandassessment.exceptions.NotUnifiableException;
+import com.sony.bytelandassessment.exceptions.WrongInputException;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.ArrayList;

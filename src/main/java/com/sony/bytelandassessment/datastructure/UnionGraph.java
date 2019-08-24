@@ -1,7 +1,7 @@
-package datastructure;
+package com.sony.bytelandassessment.datastructure;
 
-import exceptions.LogicViolationException;
-import exceptions.NotUnifiableException;
+import com.sony.bytelandassessment.exceptions.LogicViolationException;
+import com.sony.bytelandassessment.exceptions.NotUnifiableException;
 
 import java.util.*;
 

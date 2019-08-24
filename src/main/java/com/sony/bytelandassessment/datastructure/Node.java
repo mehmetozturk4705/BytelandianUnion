@@ -1,4 +1,4 @@
-package datastructure;
+package com.sony.bytelandassessment.datastructure;
 
 /**
  * Node is point of information in UnionGraph.

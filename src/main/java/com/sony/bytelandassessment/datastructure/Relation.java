@@ -1,6 +1,6 @@
-package datastructure;
+package com.sony.bytelandassessment.datastructure;
 
-import exceptions.LogicViolationException;
+import com.sony.bytelandassessment.exceptions.LogicViolationException;
 
 /**
  * Relation represents connections in UnionGraph.
